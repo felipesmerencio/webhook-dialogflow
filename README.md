@@ -1,2 +1,3 @@
 # webhook-dialogflow
-Communication with Dialogflow to exchange information using Node.js
+
+Webhook in Node.js to register petshop customers in a mysql. And make the schedule of bath and grooming on Google calendar.
