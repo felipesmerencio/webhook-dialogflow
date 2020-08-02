@@ -1,2 +1,2 @@
 # webhook-dialogflow
-Communication with dialogflw to exchange information using node.js
+Communication with Dialogflow to exchange information using Node.js
